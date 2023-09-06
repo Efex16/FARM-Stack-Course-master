@@ -7,7 +7,7 @@ from motor.motor_asyncio import AsyncIOMotorClient
 from pymongo.server_api import ServerApi
 
 
-client = AsyncIOMotorClient("mongodb+srv://efex:Treasure1608@cluster0.2czxs8m.mongodb.net/", server_api=ServerApi('1'))
+client = AsyncIOMotorClient("mongodb+srv://username: password@cluster0.2czxs8m.mongodb.net/", server_api=ServerApi('1'))
 client = motor.motor_asyncio.AsyncIOMotorClient('mongodb+srv://efex:Treasure1608@cluster0.2czxs8m.mongodb.net/')
 database = client.TodoList
 collection = database.todo
