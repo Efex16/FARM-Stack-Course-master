@@ -32,5 +32,3 @@ put and delete visually using Open API which is itself based on JSON schema.
 Please follow along in the video to get more details about the course.
 
 Thank you.
-BR,
-Bek
