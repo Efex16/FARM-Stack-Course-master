@@ -1,6 +1,6 @@
 <h1>FARM-Stack-Course</h1>
 
-This is the FARM Stack course, where we are going to build an application from scratch using FASTAPI, React and mongoDB
+This is the FARM Stack project, where we are going to build an application from scratch using FASTAPI, React and mongoDB
 ----------------------------------------------------------
 <br/>
 FARM stands for FastAPI - React - MongoDB.
