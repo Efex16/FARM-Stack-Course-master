@@ -1,4 +1,4 @@
-<h1>FARM-Stack-Course</h1>
+<h1>FARM-Stack-Application</h1>
 
 This is the FARM Stack project, where we are going to build an application from scratch using FASTAPI, React and mongoDB
 ----------------------------------------------------------
