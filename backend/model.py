@@ -1,5 +1,5 @@
-#  @bekbrace
-#  FARMSTACK Tutorial - Sunday 13.06.2021
+#  @Efex @Lady_Programmer
+#  ALX GRAD PROJECT - September 2023
 
 # Pydantic allows auto creation of JSON Schemas from models
 from pydantic import BaseModel
