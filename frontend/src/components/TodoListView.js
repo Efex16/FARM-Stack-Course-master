@@ -1,4 +1,3 @@
-// @bekbrace
 // EFEX_WEB - SEptember 2023
 
 import TodoItem from './Todo'
