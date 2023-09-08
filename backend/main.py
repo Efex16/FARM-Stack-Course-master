@@ -1,5 +1,5 @@
-#  @bekbrace
-#  FARMSTACK Tutorial - Sunday 13.06.2021
+#  @Efex @Lady_Programmer
+#  ALX GRAD PROJECT - September 2023
 
 from fastapi import FastAPI, HTTPException
 
