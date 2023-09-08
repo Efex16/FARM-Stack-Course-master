@@ -1,5 +1,4 @@
-// @bekbrace
-// FARMSTACK Tutorial - Sunday 13.06.2021
+// Efex16 - September, 2023
 import axios from 'axios'
 import React from 'react'
 
