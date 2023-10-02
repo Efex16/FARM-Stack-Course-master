@@ -1,4 +1,4 @@
-// Efex16 - September, 2023
+// Aminat - September, 2023
 import axios from 'axios'
 import React from 'react'
 

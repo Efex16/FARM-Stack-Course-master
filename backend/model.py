@@ -1,4 +1,4 @@
-#  @Efex @Lady_Programmer
+#  @Efex @Aminat
 #  ALX GRAD PROJECT - September 2023
 
 # Pydantic allows auto creation of JSON Schemas from models
