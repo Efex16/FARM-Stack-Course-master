@@ -1,4 +1,4 @@
-#  @Efex @Lady_Programmer
+#  @Efex
 #  ALX GRAD PROJECT - September 2023
 
 from fastapi import FastAPI, HTTPException
